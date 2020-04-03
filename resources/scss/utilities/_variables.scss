@@ -1,0 +1,22 @@
+//Descriptive color variables
+$grey   : #777;
+$white  : #fff;
+$viking : #58e1c1;
+$malibu : #51ddfc;
+$sunglo : #e4757a;
+$emerald: #63cc82;
+
+
+//functional color variables
+$color-txt     : $grey;
+$color-btn     : $white;
+
+$color-prim    : $viking;
+$color-sec     : $malibu;
+
+$color-err     : $sunglo;
+$color-suc     : $emerald;
+
+// Media-query breakpoint
+
+$brk-narrow:'(max-width:768px)';
